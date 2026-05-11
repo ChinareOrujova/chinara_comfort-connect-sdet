@@ -1,0 +1,47 @@
+[
+  {
+    "id": "company-001",
+    "name": "Acme Heating & Air",
+    "uwritingConfigType": "default",
+    "systemTypes": ["HVAC", "Water Heater", "Water Heater Tankless", "Water Filter/Softener", "Generator"],
+    "partners": [
+      { "partnerName": "premier", "partnerType": "premier", "isEnrolled": true, "isActive": true },
+      { "partnerName": "loan1", "partnerType": "loan", "isEnrolled": true, "isActive": true },
+      { "partnerName": "loan2", "partnerType": "loan", "isEnrolled": true, "isActive": true },
+      { "partnerName": "l2o1", "partnerType": "leaseToOwn", "isEnrolled": true, "isActive": true },
+      { "partnerName": "l2o2", "partnerType": "leaseToOwn", "isEnrolled": true, "isActive": true }
+    ],
+    "maxApprovalAmount": 40000,
+    "buyDown": { "standard": 0.02 }
+  },
+  {
+    "id": "company-002",
+    "name": "Sample HVAC Corp",
+    "uwritingConfigType": "default",
+    "systemTypes": ["HVAC", "Water Heater"],
+    "partners": [
+      { "partnerName": "premier", "partnerType": "premier", "isEnrolled": true, "isActive": true },
+      { "partnerName": "loan1", "partnerType": "loan", "isEnrolled": true, "isActive": true },
+      { "partnerName": "loan2", "partnerType": "loan", "isEnrolled": true, "isActive": true },
+      { "partnerName": "l2o1", "partnerType": "leaseToOwn", "isEnrolled": false, "isActive": false },
+      { "partnerName": "l2o2", "partnerType": "leaseToOwn", "isEnrolled": false, "isActive": false }
+    ],
+    "maxApprovalAmount": 30000,
+    "buyDown": { "standard": 0 }
+  },
+  {
+    "id": "company-003",
+    "name": "Test Climate Services",
+    "uwritingConfigType": "default",
+    "systemTypes": ["HVAC", "Generator", "Water Filter/Softener"],
+    "partners": [
+      { "partnerName": "premier", "partnerType": "premier", "isEnrolled": true, "isActive": true },
+      { "partnerName": "loan1", "partnerType": "loan", "isEnrolled": true, "isActive": true },
+      { "partnerName": "loan2", "partnerType": "loan", "isEnrolled": false, "isActive": false },
+      { "partnerName": "l2o1", "partnerType": "leaseToOwn", "isEnrolled": true, "isActive": true },
+      { "partnerName": "l2o2", "partnerType": "leaseToOwn", "isEnrolled": true, "isActive": true }
+    ],
+    "maxApprovalAmount": 50000,
+    "buyDown": { "standard": 0.03 }
+  }
+]

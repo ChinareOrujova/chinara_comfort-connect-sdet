@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Premier Approved (primePlus)",
+    "ssn": "111110210",
+    "expectedFico": 760,
+    "expectedOutcome": "Premier approved, primePlus grade",
+    "applicant": {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "email": "alice@example.com",
+      "phone": "5551234567",
+      "dateOfBirth": "03/15/1985",
+      "ssn": "111110210"
+    },
+    "income": {
+      "incomeSource": "Employed",
+      "preTaxAnnualIncome": 95000,
+      "additionalAnnualIncome": 0,
+      "monthlyHousingExpense": 1200
+    },
+    "address": {
+      "street": "123 Oak St",
+      "city": "Austin",
+      "state": "TX",
+      "zipCode": "78701"
+    },
+    "projects": [
+      { "projectType": "HVAC", "retailPrice": 8000 }
+    ]
+  },
+  {
+    "name": "Premier Approved (prime)",
+    "ssn": "111114651",
+    "expectedFico": 701,
+    "expectedOutcome": "Premier approved, prime grade",
+    "applicant": {
+      "firstName": "Bob",
+      "lastName": "Martinez",
+      "email": "bob@example.com",
+      "phone": "5559876543",
+      "dateOfBirth": "07/22/1978",
+      "ssn": "111114651"
+    },
+    "income": {
+      "incomeSource": "Employed",
+      "preTaxAnnualIncome": 72000,
+      "additionalAnnualIncome": 5000,
+      "monthlyHousingExpense": 1500
+    },
+    "address": {
+      "street": "456 Maple Ave",
+      "city": "Denver",
+      "state": "CO",
+      "zipCode": "80202"
+    },
+    "projects": [
+      { "projectType": "HVAC", "retailPrice": 12000 }
+    ]
+  },
+  {
+    "name": "Premier Review (subPrime)",
+    "ssn": "111110080",
+    "expectedFico": 630,
+    "expectedOutcome": "Review required (midFico 595-639), partner offers shown",
+    "applicant": {
+      "firstName": "Carol",
+      "lastName": "Thompson",
+      "email": "carol@example.com",
+      "phone": "5555551234",
+      "dateOfBirth": "11/08/1990",
+      "ssn": "111110080"
+    },
+    "income": {
+      "incomeSource": "Self-Employed",
+      "preTaxAnnualIncome": 55000,
+      "additionalAnnualIncome": 0,
+      "monthlyHousingExpense": 900
+    },
+    "address": {
+      "street": "789 Pine Rd",
+      "city": "Portland",
+      "state": "OR",
+      "zipCode": "97201"
+    },
+    "projects": [
+      { "projectType": "HVAC", "retailPrice": 6000 }
+    ]
+  },
+  {
+    "name": "Premier Rejected, Loans Available",
+    "ssn": "111110040",
+    "expectedFico": 590,
+    "expectedOutcome": "Rejected (lowFico <= 594), loan and leaseToOwn offers available",
+    "applicant": {
+      "firstName": "Dan",
+      "lastName": "Chen",
+      "email": "dan@example.com",
+      "phone": "5554443333",
+      "dateOfBirth": "05/20/1982",
+      "ssn": "111110040"
+    },
+    "income": {
+      "incomeSource": "Employed",
+      "preTaxAnnualIncome": 48000,
+      "additionalAnnualIncome": 0,
+      "monthlyHousingExpense": 800
+    },
+    "address": {
+      "street": "321 Elm St",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zipCode": "85001"
+    },
+    "projects": [
+      { "projectType": "HVAC", "retailPrice": 7000 }
+    ]
+  },
+  {
+    "name": "Loans Rejected, Lease-to-Own Available",
+    "ssn": "111110005",
+    "expectedFico": 555,
+    "expectedOutcome": "Premier rejected (lowFico <= 594), loans rejected (FICO < 560), lease-to-own offers approved",
+    "applicant": {
+      "firstName": "Frank",
+      "lastName": "Rivera",
+      "email": "frank@example.com",
+      "phone": "5553336666",
+      "dateOfBirth": "09/12/1988",
+      "ssn": "111110005"
+    },
+    "income": {
+      "incomeSource": "Employed",
+      "preTaxAnnualIncome": 40000,
+      "additionalAnnualIncome": 0,
+      "monthlyHousingExpense": 700
+    },
+    "address": {
+      "street": "555 Cedar Blvd",
+      "city": "Tampa",
+      "state": "FL",
+      "zipCode": "33601"
+    },
+    "projects": [
+      { "projectType": "HVAC", "retailPrice": 7000 }
+    ]
+  },
+  {
+    "name": "All Rejected (Low Income)",
+    "ssn": "111110500",
+    "expectedFico": 750,
+    "expectedOutcome": "All partners reject due to low income ($20K < $22K loan min, monthly $1667 < $1800 LTO min)",
+    "applicant": {
+      "firstName": "Eve",
+      "lastName": "Williams",
+      "email": "eve@example.com",
+      "phone": "5552221111",
+      "dateOfBirth": "01/30/1995",
+      "ssn": "111110500"
+    },
+    "income": {
+      "incomeSource": "Other",
+      "preTaxAnnualIncome": 20000,
+      "additionalAnnualIncome": 0,
+      "monthlyHousingExpense": 500
+    },
+    "address": {
+      "street": "999 Last Resort Ln",
+      "city": "Reno",
+      "state": "NV",
+      "zipCode": "89501"
+    },
+    "projects": [
+      { "projectType": "HVAC", "retailPrice": 5000 }
+    ]
+  }
+]
