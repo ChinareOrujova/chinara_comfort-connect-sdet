@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.comfortconnect.tests.runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.25 s -- in com.comfortconnect.tests.runners.TestRunner

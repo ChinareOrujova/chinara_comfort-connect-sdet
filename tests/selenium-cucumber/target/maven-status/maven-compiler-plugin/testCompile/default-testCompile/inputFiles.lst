@@ -1,0 +1,15 @@
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/pages/ApplicantInfoPage.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/pages/BasePage.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/pages/CompanyBannerPage.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/pages/DecisionPage.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/pages/IncomeInfoPage.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/pages/ReviewSubmitPage.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/pages/SystemSelectionPage.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/runners/TestRunner.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/steps/ApplicationFormSteps.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/steps/DealerSteps.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/steps/DecisionSteps.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/steps/Hooks.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/steps/ProfileData.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/utils/DriverManager.java
+/Users/chinaraorujova/comfort-connect-sdet-interview-chinare/tests/selenium-cucumber/src/test/java/com/comfortconnect/tests/utils/TestConfig.java

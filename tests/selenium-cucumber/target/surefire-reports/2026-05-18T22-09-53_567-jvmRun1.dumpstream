@@ -1,0 +1,105 @@
+# Created at 2026-05-18T22:09:54.513
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '> comfort-connect@1.0.0 dev'.
+
+# Created at 2026-05-18T22:09:54.824
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '> concurrently "npm run start:backend" "npm run start:frontend"'.
+
+# Created at 2026-05-18T22:09:54.824
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0] '.
+
+# Created at 2026-05-18T22:09:54.825
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0] > comfort-connect@1.0.0 start:backend'.
+
+# Created at 2026-05-18T22:09:54.831
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0] > cd backend && node server.js'.
+
+# Created at 2026-05-18T22:09:54.831
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0] '.
+
+# Created at 2026-05-18T22:09:54.831
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] '.
+
+# Created at 2026-05-18T22:09:54.832
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] > comfort-connect@1.0.0 start:frontend'.
+
+# Created at 2026-05-18T22:09:54.943
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] > cd frontend && npm start'.
+
+# Created at 2026-05-18T22:09:54.943
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] '.
+
+# Created at 2026-05-18T22:09:54.943
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] '.
+
+# Created at 2026-05-18T22:09:54.944
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] > comfort-connect-frontend@1.0.0 start'.
+
+# Created at 2026-05-18T22:09:54.989
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] > react-scripts start'.
+
+# Created at 2026-05-18T22:09:54.990
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] '.
+
+# Created at 2026-05-18T22:09:55.792
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0] Comfort Connect backend running on port 3001'.
+
+# Created at 2026-05-18T22:09:55.793
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] (node:39908) [DEP0176] DeprecationWarning: fs.F_OK is deprecated, use fs.constants.F_OK instead'.
+
+# Created at 2026-05-18T22:09:56.198
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] (Use `node --trace-deprecation ...` to show where the warning was created)'.
+
+# Created at 2026-05-18T22:09:56.198
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] (node:39908) [DEP_WEBPACK_DEV_SERVER_ON_AFTER_SETUP_MIDDLEWARE] DeprecationWarning: 'onAfterSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.'.
+
+# Created at 2026-05-18T22:09:56.493
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] (node:39908) [DEP_WEBPACK_DEV_SERVER_ON_BEFORE_SETUP_MIDDLEWARE] DeprecationWarning: 'onBeforeSetupMiddleware' option is deprecated. Please use the 'setupMiddlewares' option.'.
+
+# Created at 2026-05-18T22:09:56.733
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] Starting the development server...'.
+
+# Created at 2026-05-18T22:09:56.734
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] '.
+
+# Created at 2026-05-18T22:09:56.734
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] Compiled successfully!'.
+
+# Created at 2026-05-18T22:09:56.734
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] '.
+
+# Created at 2026-05-18T22:09:56.735
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] You can now view comfort-connect-frontend in the browser.'.
+
+# Created at 2026-05-18T22:09:56.735
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] '.
+
+# Created at 2026-05-18T22:09:56.735
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1]   Local:            http://localhost:3000'.
+
+# Created at 2026-05-18T22:09:56.736
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1]   On Your Network:  http://192.168.1.170:3000'.
+
+# Created at 2026-05-18T22:09:56.736
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] '.
+
+# Created at 2026-05-18T22:09:56.736
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] Note that the development build is not optimized.'.
+
+# Created at 2026-05-18T22:09:56.737
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] To create a production build, use npm run build.'.
+
+# Created at 2026-05-18T22:09:56.737
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] '.
+
+# Created at 2026-05-18T22:09:57.236
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] webpack compiled successfully'.
+
+# Created at 2026-05-18T22:10:01.556
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] (node:39908) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.'.
+
+# Created at 2026-05-18T22:10:08.959
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[0] npm run start:backend exited with code SIGTERM'.
+
+# Created at 2026-05-18T22:10:08.961
+Corrupted channel by directly writing to native stream in forked JVM 1. Stream '[1] npm run start:frontend exited with code SIGTERM'.
+
